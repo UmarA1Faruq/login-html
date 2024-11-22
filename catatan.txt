@@ -2,3 +2,5 @@
 
 Program Random yang saya buat hanya untuk mengisi kegabutan saja
 Cuma bermodalkan HTML dan Css serta sedikit tambahan dari GPT
+
+- ada tambahan juga seperti tampilan form login dan signin
